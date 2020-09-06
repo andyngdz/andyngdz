@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/me.jpg" width="50%"/> <img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/greetings.gif" width="45%" />
+<img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/me.jpg"  width="50%"/> <img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/greetings.gif"  width="45%" />
 
 **Hello There!**
 
@@ -20,102 +20,106 @@
 
 **How to reach me?**
 
-> <p> <a href="https://linkedin.com/in/andy-ng-7a283a65"
-> target="blank"><img align="center"
+>  <p>  <a  href="https://linkedin.com/in/andy-ng-7a283a65"
+> target="blank"><img  align="center"
 > src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-> alt="andy-ng-7a283a65" height="30" width="30" /></a> <a
+> alt="andy-ng-7a283a65" height="30" width="30" /></a>  <a
 > href="https://instagram.com/andyngdz" target="blank"><img
 > align="center"
-> src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andyngdz" height="30" width="30" /></a> </p>
+> src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andyngdz" height="30" width="30" /></a>  
+> </p>
 
 **How many tools that I've worked on??**
 
-> <p align="left"><img
-> src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify"
+>  <p  align="left"><img
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/amplify.svg" alt="amplify"
 > width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/android.svg"
 > alt="android" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/angularjs.svg"
 > alt="angularjs" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/babel.svg"
 > alt="babel" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/bootstrap.svg"
 > alt="bootstrap" width="40" height="40"/> <img
-> src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/canvasjs.svg"
 > alt="canvasjs" width="40" height="40"/> <img
-> src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/chartjs.svg" alt="chartjs"
 > width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/cplusplus.svg"
 > alt="cplusplus" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/csharp.svg"
 > alt="csharp" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/css3.svg"
 > alt="css3" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/d3.svg"
 > alt="d3js" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/dartlang.svg"
 > alt="dart" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/docker.svg"
 > alt="docker" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/electronjs.svg"
 > alt="electron" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/firebase.svg"
 > alt="firebase" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/flutter.svg"
 > alt="flutter" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/gatsbyjs.svg"
 > alt="gatsby" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/google_cloud.svg"
 > alt="gcp" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/git.svg"
 > alt="git" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/golang.svg"
 > alt="go" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/html5.svg"
 > alt="html5" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/adobe_illustrator.svg"
 > alt="illustrator" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/invisionapp.svg"
 > alt="invision" width="40" height="40"/> <img
-> src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/ionic.svg"
 > alt="ionic" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/javascript.svg"
 > alt="javascript" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/linux.svg"
 > alt="linux" width="40" height="40"/> <img
-> src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/materialize.svg"
 > alt="materialize" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/mongodb.svg"
 > alt="mongodb" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/mysql.svg"
 > alt="mysql" width="40" height="40"/> <img
-> src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/nativescript.svg"
 > alt="nativescript" width="40" height="40"/> <img
-> src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/nextjs.svg" alt="nextjs"
 > width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/photoshop.svg"
 > alt="photoshop" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/postgresql.svg"
 > alt="postgresql" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/react.svg"
 > alt="react" width="40" height="40"/> <img
-> src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/react-native.svg" alt="reactnative"
 > width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/redux.svg"
 > alt="redux" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/sass.svg"
 > alt="sass" width="40" height="40"/> <img
-> src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/tensorflow.svg"
 > alt="tensorflow" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/typescript.svg"
 > alt="typescript" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/vue.svg"
 > alt="vuejs" width="40" height="40"/> <img
-> src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
-> alt="webpack" width="40" height="40"/></p>
+> src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/icons/webpack.svg"
+> alt="webpack" width="40" height="40"/>
+> </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngdz&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="andyngdz" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andyngdz&layout=compact&hide=html&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="andyngdz" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngdz&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt="andyngdz" />
+
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=andyngdz&layout=compact&hide=html&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"  alt="andyngdz" />
+
 </p>
