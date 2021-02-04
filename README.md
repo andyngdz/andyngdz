@@ -1,14 +1,12 @@
-<img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/me.jpg"  width="50%"/> <img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/greetings.gif"  width="45%" />
+<img src="https://raw.githubusercontent.com/andyngdz/andyngdz/master/me.jpg" />
 
 **Hello There!**
 
 > My name is Andy D. Ng, a Full Stack Developer. I have a passion for
 > learning and sharing my knowledge with others as public as possible.
 >
-> I’m currently working on [Unme](https://unsplash.com/), a mobile
-> application to share photos/wallpaper. I’m looking forward to working
-> with [Wiredash SDK](https://github.com/wiredashio/wiredash-sdk), it's
-> a great SDK and has potential in the future.
+> I’m currently working on [iCoin](http://icoin.vercel.app/), a web
+> application for checking cryptocurrencies.
 >
 > I regulary write articles on
 > [https://imandynguyen.com/](https://imandynguyen.com/), you can also
@@ -20,7 +18,7 @@
 
 **How to reach me?**
 
->  <p>  <a  href="https://linkedin.com/in/andy-ng-7a283a65"
+>  <p>  <a  href="https://www.linkedin.com/in/andy-d-ng-7a283a65/"
 > target="blank"><img  align="center"
 > src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
 > alt="andy-ng-7a283a65" height="30" width="30" /></a>  <a
